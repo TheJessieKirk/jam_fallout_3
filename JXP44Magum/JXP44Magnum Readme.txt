@@ -1,16 +1,16 @@
                             JESSIE's .44 MAGNUM MOD
-                             1.0.0, September 2022
+                              1.0.1, January 2025
 
                                    1. LEGAL
 
-Copyright © 2019, 2022 Jessie Kirk <http://jessiekirk.scot/>
+Copyright © 2019, 2022, 2025 Jessie Kirk <http://jessiekirk.xyz/>
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
 
-This software is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE. See the WTFPL for more details.
+This software is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the WTFPL for more details.
 
 You should have received a copy of the WTFPL along with this software. If not,
 see <http://www.wtfpl.net/about/>.
@@ -94,6 +94,9 @@ see <http://www.wtfpl.net/about/>.
       Remade thumbnails.
       Cleaned accidental changes to Scoped .44 Magnum condition.
 
+    1.0.1
+      Remade and fixed formatting error with Pip-Boy icons.
+
                                   7. CREDITS
 
     xEdit used to clean mod file.
@@ -105,8 +108,11 @@ see <http://www.wtfpl.net/about/>.
     GIMP used to modify the Scoped .44 Magnum Pip-Boy icons.
     GIMP: <https://www.gimp.org/>
 
-    Fallout Mod Manager used to create the BSA archive.
-    <https://www.nexusmods.com/fallout3/mods/640>
+    DDS Converter 2 used to fix DDS format of Pip-Boy icons.
+    GIMP: <https://www.nexusmods.com/oblivion/mods/8698/>
+
+    Fallout 3 Archive Utility used to create the BSA archive.
+    <https://www.nexusmods.com/fallout3/mods/34/>
 
     Monofonto font by Raymond Larabie. Free font.
     <http://typodermicfonts.com/>
