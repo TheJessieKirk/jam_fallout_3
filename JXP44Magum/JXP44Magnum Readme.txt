@@ -1,5 +1,5 @@
                             JESSIE's .44 MAGNUM MOD
-                              1.0.1, January 2025
+                              1.1.0, January 2025
 
                                    1. LEGAL
 
@@ -96,6 +96,9 @@ see <http://www.wtfpl.net/about/>.
 
     1.0.1
       Remade and fixed formatting error with Pip-Boy icons.
+
+    1.1.0
+      Switched to script injection for better mod compatibility.
 
                                   7. CREDITS
 
