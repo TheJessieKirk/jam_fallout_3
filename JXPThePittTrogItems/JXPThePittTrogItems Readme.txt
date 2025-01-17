@@ -1,16 +1,16 @@
                             JESSIE's TROG ITEMS MOD
-                             1.0.0, September 2022
+                             2.0.0, January 2025
 
                                    1. LEGAL
 
-Copyright © 2019, 2022 Jessie Kirk <http://johnnykirk.scot/>
+Copyright © 2019, 2022, 2025 Jessie Kirk <http://johnnykirk.xyz/>
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
 
-This software is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE.
+This software is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.
 
 You should have received a copy of the WTFPL along with this software. If not,
 see <http://www.wtfpl.net/about/>.
@@ -20,7 +20,7 @@ see <http://www.wtfpl.net/about/>.
     1. Review the “JXPThePittTrogItems - License.txt” file to ensure you
        understand your rights.
 
-    2. Extract the file “JXPThePittTrogItems.esp” from the archive file
+    2. Extract the file “JXPThePittTrogItems.esm” from the archive file
        “JXPThePittTrogItems.zip” to your PC's Fallout 3 Data directory. The usual
        locations of this directory are:
 
@@ -36,6 +36,17 @@ see <http://www.wtfpl.net/about/>.
            Retail Version, 32-bit Windows:
              C:\Program Files\Bethesda Softworks\Fallout 3\Data
 
+    3. Optionally, extract the files “JXPThePittTrogItemsTheTTickets.esp”,
+       “JXPThePittTrogItemsTheTTickets - Meshes.bsa” and
+       “JXPThePittTrogItemsTheTTickets - Textures.bsa” to your PC's Fallout 3
+       Data directory (see GAMES CHANGES for a description).
+
+    3. If you use Jessie's Missing Junk Mod (JXPMissingJunk), extract the
+       files “JXPThePittTrogItemsMissingJunkCP.esp”,
+       “JXPThePittTrogItemsMissingJunkCP - Meshes.bsa” and
+       “JXPThePittTrogItemsMissingJunkCP - Textures.bsa” to your PC's Fallout 3
+       Data directory so that the mods work together correctly.
+
     3. Optionally, extract the files “JXPThePittTrogItems - Readme.txt” and
        “JXPThePittTrogItems - License.txt” to your PC's Fallout 3 Data directory
        to retain them for future reference.
@@ -47,12 +58,15 @@ see <http://www.wtfpl.net/about/>.
 
                                 3. GAME CHANGES
 
-    This mod removes Metro Tickets from the random items dropped by dead Trogs.
+    This mod removes Metro Tickets from the random items dropped by dead trogs.
+
+    Optionally, this mod also adds "The T" (Pittsburgh subway) tickets to trogs
+    instead.
 
                                  4. RATIONALE
 
     In the real world, Pittsburg has a subway railway in Downtown which has
-    been there since 1865; well before the Fallout universe diverged from our
+    been there since well before the Fallout universe diverged from our
     own. It makes sense that the Pitt's Downtown may still retain access to it,
     but it's not a “metro” system.
 
@@ -61,7 +75,14 @@ see <http://www.wtfpl.net/about/>.
 
                         5. UNINSTALLATION INSTRUCTIONS
 
-    1. Delete the files “JXPThePittTrogItems.esp”. The mod is now uninstalled.
+    1. Delete the files “JXPThePittTrogItems.esm”,
+       “JXPThePittTrogItemsTheTTickets.esp”,
+       “JXPThePittTrogItemsTheTTickets - Meshes.bsa”,
+       “JXPThePittTrogItemsTheTTickets - Textures.bsa”,
+       “JXPThePittTrogItemsMissingJunkCP.esp”,
+       “JXPThePittTrogItemsMissingJunkCP - Meshes.bsa” and
+       “JJXPThePittTrogItemsMissingJunkCP - Textures.bsa”. The mod is now
+       uninstalled.
 
                                  6. CHANGELOG
 
@@ -79,6 +100,9 @@ see <http://www.wtfpl.net/about/>.
       Updated file naming to new conventions.
       Remade thumbnails.
 
+    2.0.0
+      Added optional "The T" Tickets.
+      Converted to master file for better mod compatibility.
 
                                   7. CREDITS
 
@@ -91,5 +115,13 @@ see <http://www.wtfpl.net/about/>.
     Monofonto font by Raymond Larabie. Free font.
     <http://typodermicfonts.com/>
 
-    Overseer Oblique font by Neale Davidson. Used under Pixel Saga's Font License.
+    OSP DIN font used under SIL Open Font License v1.10. Author unknown.
+    <https://www.fontsquirrel.com/fonts/osp-din>
+
+    Overseer Oblique font by Neale Davidson. Used under Pixel Saga's Font
+    License.
     <http://www.pixelsagas.com/>
+
+    Pacifico font by Vernon Adams. Used under SIL Open Font License
+    v1.10.
+    <https://www.fontsquirrel.com/fonts/pacifico>
