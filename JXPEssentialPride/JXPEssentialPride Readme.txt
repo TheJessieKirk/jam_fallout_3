@@ -1,16 +1,16 @@
                           JESSIE'S ESSENTIAL PRIDE MOD
-                              1.0.0, September 2022
+                              1.1.0, September 2022
 
                                    1. LEGAL
 
-Copyright © 2021–2022 Jessie Kirk <http://jessiekirk.scot/>
+Copyright © 2021, 2022, 2025 Jessie Kirk <http://jessiekirk.xyz/>
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
 
-This software is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE.
+This software is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.
 
 You should have received a copy of the WTFPL along with this software. If not,
 see <http://www.wtfpl.net/about/>.
@@ -47,7 +47,8 @@ see <http://www.wtfpl.net/about/>.
 
                                 3. GAME CHANGES
 
-    This mod makes all the members of Lyon's Pride essential (unkillable).
+    This mod makes all the members of Lyon's Pride essential (unkillable),
+    except the late Jennings and DOA Reddin.
 
                                  4. RATIONALE
 
@@ -69,6 +70,9 @@ see <http://www.wtfpl.net/about/>.
     1.0.0
       Updated file naming to new conventions.
       Remade thumbnails.
+
+    1.1.0
+      Switched to script injection for better mod compatibility.
 
                                   7. CREDITS
 
