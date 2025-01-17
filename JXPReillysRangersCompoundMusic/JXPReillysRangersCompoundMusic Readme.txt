@@ -1,9 +1,9 @@
-                       JESSIE's RAVEN ROCK HANDY BOX MOD
-                             1.0.0, January 2025
+                     JESSIE's RAVEN ROCK HOLDING CELLS MOD
+                             0.1.0, January 2025
 
                                    1. LEGAL
 
-Copyright © 2022, 2025 Jessie Kirk <http://jessiekirk.xyz/>
+Copyright © 2025 Jessie Kirk <http://jessiekirk.xyz/>
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
@@ -17,14 +17,12 @@ see <http://www.wtfpl.net/about/>.
 
                          2. INSTALLATION INSTRUCTIONS
 
-    1. Review the “JXPRavenRockHandyBox - License.txt” file to ensure you
-       understand your rights.
+    1. Review the “JXPReillysRangersCompoundMusic License.txt” file to ensure
+       you understand your rights.
 
-    2. Extract the files “JXPRavenRockHandyBox.esp”,
-       “JXPRavenRockHandyBox - Meshes.bsa” and
-       “JXPRavenRockHandyBox - Textures.bsa”from the archive file
-       “JXPRavenRockHandyBox.zip” to your PC's Fallout 3 Data directory. The
-       usual locations of this directory are:
+    2. Extract the file “JXPReillysRangersCompoundMusic.esp” from the archive
+       file “JXPReillysRangersCompoundMusic.zip” to your PC's Fallout 3 Data
+       directory. The usual locations of this directory are:
 
            Steam Version, 64-bit Windows:
              C:\Program Files (x86)\Steam\steamapps\common\Fallout 3 goty\Data
@@ -38,41 +36,36 @@ see <http://www.wtfpl.net/about/>.
            Retail Version, 32-bit Windows:
              C:\Program Files\Bethesda Softworks\Fallout 3\Data
 
-    3. Optionally, extract the files “JXPRavenRockHandyBox - Readme.txt” and
-       “JXPRavenRockHandyBox - License.txt” to your PC's Fallout 3 Data
-       directory to retain them for future reference.
+    3. Optionally, extract the files
+       “JXPReillysRangersCompoundMusic Readme.txt” and
+       “JXPReillysRangersCompoundMusic License.txt” to your PC's Fallout 3
+       Data directory to retain them for future reference.
 
     4. Launch Fallout 3. When the Launcher window appears, select Data Files.
        The Fallout 3 Data Files window will appear containing a list of files.
-       Click/tap the checkbox next to “JXPRavenRockHandyBox.esp” to enable it,
-       then click/tap the OK button. The mod is now installed.
+       Click/tap the checkbox next to “JXPReillysRangersCompoundMusic.esp” to
+       enable it, then click/tap the OK button. The mod is now installed.
 
                                 3. GAME CHANGES
 
-    This mod adds a handy empty metal box near Raven Rock.
-
-    The box is located in a pile of rubble near the chainlink fence just to the
-    South of Raven Rock's entrance.
+    This mod changes the Rangers Compound music from the dungeon playlist (that
+    plays in metros, caves and such) to the base playlist (that plays in The
+    Citadel, The Mall, etc.)
 
                                  4. RATIONALE
 
-    Overencumbered with loot from your Raven Rock escape? Fear not, for now you
-    have somewhere to stash that stuff so you can mule it back to your base!
+    It seems a bit strange to play spooky dungeon music in a friendly base.
 
                         5. UNINSTALLATION INSTRUCTIONS
 
-    1. Delete the files “JXPRavenRockHandyBox.esp”,
-       “JXPRavenRockHandyBox - Meshes.bsa” and
-       “JXPRavenRockHandyBox - Textures.bsa”. The mod is now uninstalled.
+    1. Delete the file “JXPReillysRangersCompoundMusic.esp”. The mod is now
+       uninstalled.
 
                                  6. CHANGELOG
 
     0.1.0
       Initial commit.
-      Added box to Wasteland near Raven Rock's entrance.
-
-    1.0.0
-      Added swearing.
+      Changed Reilly's Rangers Compound music from dungeon to base.
 
                                   7. CREDITS
 
@@ -81,15 +74,6 @@ see <http://www.wtfpl.net/about/>.
 
     GECK used to create mod file.
     <https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit>
-
-    GIMP used to create textures.
-    <https://www.gimp.org/>
-
-    NifSkope used to edit meshes.
-    <https://github.com/niftools/nifskope/>
-
-    Bambe font by 1001Fonts. Free font.
-    https://www.1001fonts.com/bambe-font.html
 
     Monofonto font by Raymond Larabie. Free font.
     <http://typodermicfonts.com/>
