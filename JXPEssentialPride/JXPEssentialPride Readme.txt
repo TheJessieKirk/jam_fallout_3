@@ -1,5 +1,5 @@
                           JESSIE'S ESSENTIAL PRIDE MOD
-                              1.1.0, September 2022
+                              1.1.0, January 2025
 
                                    1. LEGAL
 
