@@ -1,10 +1,10 @@
                               JESSIE'S BROKEN STEEL
                             PROJECT PURITY FIXES MOD
-                              0.1.0, September 2022
+                              1.0.0, January 2025
 
                                    1. LEGAL
 
-Copyright © 2022 Jessie Kirk <http://jessiekirk.scot/>
+Copyright © 2022, 2025 Jessie Kirk <http://jessiekirk.xyz/>
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
@@ -18,7 +18,7 @@ see <http://www.wtfpl.net/about/>.
 
                          2. INSTALLATION INSTRUCTIONS
 
-    1. Review the “JXPBrokenSteelProjectPurityFixes - License.txt” file to
+    1. Review the “JXPBrokenSteelProjectPurityFixes License.txt” file to
        ensure you understand your rights.
 
     2. Extract the files “JXPBrokenSteelProjectPurityFixes.bsa” and
@@ -38,8 +38,8 @@ see <http://www.wtfpl.net/about/>.
            Retail Version, 32-bit Windows:
              C:\Program Files\Bethesda Softworks\Fallout 3\Data
 
-    3. Optionally, extract the files “JXPBrokenSteelProjectPurityFixes -
-       Readme.txt” and “JXPBrokenSteelProjectPurityFixes - License.txt” to your
+    3. Optionally, extract the files “JXPBrokenSteelProjectPurityFixes
+       Readme.txt” and “JXPBrokenSteelProjectPurityFixes License.txt” to your
        PC's Fallout 3 Data directory to retain them for future reference.
 
     4. Launch Fallout 3. When the Launcher window appears, select “Data Files”.
@@ -79,6 +79,10 @@ see <http://www.wtfpl.net/about/>.
       provide Project Purity water.
       Changed count on sledgehammer stack from 17 to 1.
 
+    1.0.0
+      Updated naming conventions.
+      Updated documentation.
+
                                   7. CREDITS
 
     xEdit used to clean mod file.
@@ -86,9 +90,6 @@ see <http://www.wtfpl.net/about/>.
 
     GECK used to create mod file.
     <https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit>
-
-    Blender used to create toilet model.
-    <https://www.blender.org/>
 
     NifSkope used to create toilet model.
     <https://github.com/niftools/nifskope/>
