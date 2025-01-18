@@ -1,5 +1,5 @@
                      JESSIE'S ESSENTIAL REILLY'S RANGERS MOD
-                              0.1.0, January 2025
+                              1.0.0, January 2025
 
                                    1. LEGAL
 
@@ -17,7 +17,7 @@ see <http://www.wtfpl.net/about/>.
 
                          2. INSTALLATION INSTRUCTIONS
 
-    1. Review the “JXPEssentialReillysRangers - License.txt” file to ensure you
+    1. Review the “JXPEssentialReillysRangers License.txt” file to ensure you
        understand your rights.
 
     2. Extract the file “JXPEssentialReillysRangers.esp” from the archive file
@@ -36,8 +36,8 @@ see <http://www.wtfpl.net/about/>.
            Retail Version, 32-bit Windows:
              C:\Program Files\Bethesda Softworks\Fallout 3\Data
 
-    3. Optionally, extract the files “JXPEssentialReillysRangers - Readme.txt”
-       and “JXPEssentialReillysRangers - License.txt” to your PC's Fallout 3
+    3. Optionally, extract the files “JXPEssentialReillysRangers Readme.txt”
+       and “JXPEssentialReillysRangers License.txt” to your PC's Fallout 3
        Data directory to retain them for future reference.
 
     4. Launch Fallout 3. When the Launcher window appears, select “Data Files”.
@@ -64,6 +64,9 @@ see <http://www.wtfpl.net/about/>.
     0.1.0
       Initial commit.
       Added "essential" flag to Brick, Butcher, Donovan and Reilly NPCs.
+
+    1.0.0
+      Switched to script injection for better mod compatibility.
 
                                   7. CREDITS
 
