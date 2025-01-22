@@ -1,9 +1,9 @@
                            JESSIE's MISSING JUNK MOD
-                              0.1.0, January 2025
+                              0.1.1, January 2025
 
                                    1. LEGAL
 
-Copyright © 2025 Jessie Kirk <http://jessiekirk.xyz/>
+Copyright © 2025 Jessie Kirk [http://jessiekirk.xyz/]
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
@@ -13,11 +13,11 @@ ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
 FOR A PARTICULAR PURPOSE. See the WTFPL for more details.
 
 You should have received a copy of the WTFPL along with this software. If not,
-see <http://www.wtfpl.net/about/>.
+see [http://www.wtfpl.net/about/].
 
                          2. INSTALLATION INSTRUCTIONS
 
-    1. Review the “JXPMissingJunk - License.txt” file to ensure you understand
+    1. Review the “JXPMissingJunk License.txt” file to ensure you understand
        your rights.
 
     2. Extract the files “JXPMissingJunk - Meshes.bsa”,
@@ -37,8 +37,8 @@ see <http://www.wtfpl.net/about/>.
            Retail Version, 32-bit Windows:
              C:\Program Files\Bethesda Softworks\Fallout 3\Data
 
-    3. Optionally, extract the files “JXPMissingJunk - Readme.txt” and
-       “JXPMissingJunk - License.txt” to your PC's Fallout 3 Data directory
+    3. Optionally, extract the files “JXPMissingJunk Readme.txt” and
+       “JXPMissingJunk License.txt” to your PC's Fallout 3 Data directory
        to retain them for future reference.
 
     4. Launch Fallout 3. When the Launcher window appears, select Data Files.
@@ -73,11 +73,6 @@ see <http://www.wtfpl.net/about/>.
        “JXPMissingJunk - Textures.bsa”and “JXPMissingJunk.esp”. The mod is now
        uninstalled.
 
-    NOTE: Any Yellow Pass Cards you have in your player character's inventory,
-          have placed in any containers or placed in the world will disappear
-          if this mod is uninstalled. If you reinstall this mod in the future,
-          they won't reappear.
-
                                  6. CHANGELOG
 
     0.1.0
@@ -85,23 +80,27 @@ see <http://www.wtfpl.net/about/>.
       Created the Yellow Pass Card, and added it to all NPC levelled item that
       the appears Blue Pass Card and Red Pass Card appear in.
 
+    0.1.1
+      Fixed documentation syntax.
+
                                   7. CREDITS
 
     xEdit used to clean mod file.
-    <https://tes5edit.github.io/>
+    [https://tes5edit.github.io/]
 
     GECK used to create mod file.
-    <https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit>
+    [https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit]
 
     GIMP used to modify the existing Blue Pass Card/Red Pass Card textures to
     create the Yellow Pass Card.
-    GIMP: <https://www.gimp.org/>
+    [https://www.gimp.org/]
 
     Fallout 3 Archive Utility used to create the BSA archive.
-    <https://www.nexusmods.com/fallout3/mods/34>
+    [https://www.nexusmods.com/fallout3/mods/34]
 
     Monofonto font by Raymond Larabie. Free font.
-    <http://typodermicfonts.com/>
+    [http://typodermicfonts.com/]
 
-    Overseer Oblique font by Neale Davidson. Used under Pixel Saga's Font License.
-    <http://www.pixelsagas.com/>
+    Overseer Oblique font by Neale Davidson. Used under Pixel Saga's Font
+    License.
+    [http://www.pixelsagas.com/]

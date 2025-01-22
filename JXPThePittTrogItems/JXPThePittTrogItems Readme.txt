@@ -1,9 +1,9 @@
                             JESSIE's TROG ITEMS MOD
-                             2.0.0, January 2025
+                              2.0.0, January 2025
 
                                    1. LEGAL
 
-Copyright © 2019, 2022, 2025 Jessie Kirk <http://johnnykirk.xyz/>
+Copyright © 2019, 2022, 2025 Jessie Kirk [http://johnnykirk.xyz/]
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
@@ -13,16 +13,16 @@ ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
 FOR A PARTICULAR PURPOSE.
 
 You should have received a copy of the WTFPL along with this software. If not,
-see <http://www.wtfpl.net/about/>.
+see [http://www.wtfpl.net/about/].
 
                          2. INSTALLATION INSTRUCTIONS
 
-    1. Review the “JXPThePittTrogItems - License.txt” file to ensure you
+    1. Review the “JXPThePittTrogItems License.txt” file to ensure you
        understand your rights.
 
     2. Extract the file “JXPThePittTrogItems.esm” from the archive file
-       “JXPThePittTrogItems.zip” to your PC's Fallout 3 Data directory. The usual
-       locations of this directory are:
+       “JXPThePittTrogItems.zip” to your PC's Fallout 3 Data directory. The
+       usual locations of this directory are:
 
            Steam Version, 64-bit Windows:
              C:\Program Files (x86)\Steam\steamapps\common\Fallout 3 goty\Data
@@ -47,14 +47,16 @@ see <http://www.wtfpl.net/about/>.
        “JXPThePittTrogItemsMissingJunkCP - Textures.bsa” to your PC's Fallout 3
        Data directory so that the mods work together correctly.
 
-    3. Optionally, extract the files “JXPThePittTrogItems - Readme.txt” and
-       “JXPThePittTrogItems - License.txt” to your PC's Fallout 3 Data directory
+    3. Optionally, extract the files “JXPThePittTrogItems Readme.txt” and
+       “JXPThePittTrogItems License.txt” to your PC's Fallout 3 Data directory
        to retain them for future reference.
 
     4. Launch Fallout 3. When the Launcher window appears, select “Data Files”.
        The Fallout 3 Data Files window will appear containing a list of files.
-       Click/tap the checkbox next to “JXPThePittTrogItems.esp” to enable it,
-       then click/tap the “OK” button. The mod is now installed.
+       Click/tap the checkbox next to “JXPThePittTrogItems.esm” to enable it,
+       as well as “JXPThePittTrogItemsMissingJunkCP.esp” and/or
+       “JXPThePittTrogItemsTheTTickets.esp” if you chose to use them, then
+       click/tap the “OK” button. The mod is now installed.
 
                                 3. GAME CHANGES
 
@@ -98,30 +100,38 @@ see <http://www.wtfpl.net/about/>.
 
     1.0.0
       Updated file naming to new conventions.
-      Remade thumbnails.
 
     2.0.0
       Added optional "The T" Tickets.
       Converted to master file for better mod compatibility.
 
+    2.0.1
+      Fixed syntax errors in documentation.
+
                                   7. CREDITS
 
     xEdit used to clean mod file.
-    <https://tes5edit.github.io/>
+    [https://tes5edit.github.io/]
 
     GECK used to create mod file.
-    <https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit>
+    [https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit]
+
+    Wryebash used to create master file.
+    [https://www.nexusmods.com/site/mods/591]
+
+    GIMP used to create textures.
+    [https://www.gimp.org/]
 
     Monofonto font by Raymond Larabie. Free font.
-    <http://typodermicfonts.com/>
+    [http://typodermicfonts.com/]
 
     OSP DIN font used under SIL Open Font License v1.10. Author unknown.
-    <https://www.fontsquirrel.com/fonts/osp-din>
+    [https://www.fontsquirrel.com/fonts/osp-din]
 
     Overseer Oblique font by Neale Davidson. Used under Pixel Saga's Font
     License.
-    <http://www.pixelsagas.com/>
+    [http://www.pixelsagas.com/]
 
     Pacifico font by Vernon Adams. Used under SIL Open Font License
     v1.10.
-    <https://www.fontsquirrel.com/fonts/pacifico>
+    [https://www.fontsquirrel.com/fonts/pacifico]

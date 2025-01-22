@@ -3,7 +3,7 @@
 
                                    1. LEGAL
 
-Copyright © 2021, 2022, 2025 Jessie Kirk <http://jessiekirk.xyz/>
+Copyright © 2021, 2022, 2025 Jessie Kirk [http://jessiekirk.xyz/]
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
@@ -13,12 +13,12 @@ ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
 FOR A PARTICULAR PURPOSE.
 
 You should have received a copy of the WTFPL along with this software. If not,
-see <http://www.wtfpl.net/about/>.
+see [http://www.wtfpl.net/about/].
 
                          2. INSTALLATION INSTRUCTIONS
 
-    1. Review the “JXPEssentialPride - License.txt” file to ensure you
-       understand your rights.
+    1. Review the “JXPEssentialPride License.txt” file to ensure you understand
+       your rights.
 
     2. Extract the file “JXPEssentialPride.esp” from the archive file
        “JXPEssentialPride.zip” to your PC's Fallout 3 Data directory. The usual
@@ -36,9 +36,9 @@ see <http://www.wtfpl.net/about/>.
            Retail Version, 32-bit Windows:
              C:\Program Files\Bethesda Softworks\Fallout 3\Data
 
-    3. Optionally, extract the files “JXPEssentialPride - Readme.txt” and
-       “JXPEssentialPride - License.txt” to your PC's Fallout 3 Data directory
-       to retain them for future reference.
+    3. Optionally, extract the files “JXPEssentialPride Readme.txt” and
+       “JXPEssentialPride License.txt” to your PC's Fallout 3 Data directory to
+       retain them for future reference.
 
     4. Launch Fallout 3. When the Launcher window appears, select “Data Files”.
        The Fallout 3 Data Files window will appear containing a list of files.
@@ -52,9 +52,9 @@ see <http://www.wtfpl.net/about/>.
 
                                  4. RATIONALE
 
-    In Broken Steel, Elder Lyons states that the Pride has been working to
-    wipe out all remaining Enclave bastions. It's a bit hard to do that if a
-    chunk of their squad got themselves killed.
+    In Broken Steel, Elder Lyons states that the Pride has been working to wipe
+    out all remaining Enclave bastions. It's a bit hard to do that if a chunk of
+    the squad got themselves killed.
 
                         5. UNINSTALLATION INSTRUCTIONS
 
@@ -69,21 +69,24 @@ see <http://www.wtfpl.net/about/>.
 
     1.0.0
       Updated file naming to new conventions.
-      Remade thumbnails.
 
     1.1.0
       Switched to script injection for better mod compatibility.
 
+    1.1.1
+      Fixed syntax errors in documentation.
+
                                   7. CREDITS
 
     xEdit used to clean mod file.
-    <https://tes5edit.github.io/>
+    [https://tes5edit.github.io/]
 
     GECK used to create mod file.
-    <https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit>
+    [https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit]
 
     Monofonto font by Raymond Larabie. Free font.
-    <http://typodermicfonts.com/>
+    [http://typodermicfonts.com/]
 
-    Overseer Oblique font by Neale Davidson. Used under Pixel Saga's Font License.
-    <http://www.pixelsagas.com/>
+    Overseer Oblique font by Neale Davidson. Used under Pixel Saga's Font
+    License.
+    [http://www.pixelsagas.com/]

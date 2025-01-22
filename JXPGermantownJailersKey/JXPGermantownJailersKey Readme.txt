@@ -1,23 +1,23 @@
                       JESSIE's GERMANTOWN JAILER'S KEY MOD
-                              1.0.0, September 2022
+                              1.0.1, January 2025
 
                                    1. LEGAL
 
-Copyright © 2021–2022 Jessie Kirk <http://jessiekirk.scot/>
+Copyright © 2021, 2022, 2025 Jessie Kirk [http://jessiekirk.xyz/]
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
 
-This software is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE.
+This software is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.
 
 You should have received a copy of the WTFPL along with this software. If not,
-see <http://www.wtfpl.net/about/>.
+see [http://www.wtfpl.net/about/].
 
                          2. INSTALLATION INSTRUCTIONS
 
-    1. Review the “JXPGermantownJailersKey - License.txt” file to ensure you
+    1. Review the “JXPGermantownJailersKey License.txt” file to ensure you
        understand your rights.
 
     2. Extract the file “JXPGermantownJailersKey.esp” from the archive file
@@ -36,8 +36,8 @@ see <http://www.wtfpl.net/about/>.
            Retail Version, 32-bit Windows:
              C:\Program Files\Bethesda Softworks\Fallout 3\Data
 
-    3. Optionally, extract the files “JXPGermantownJailersKey - Readme.txt” and
-       “JXPGermantownJailersKey - License.txt” to your PC's Fallout 3 Data
+    3. Optionally, extract the files “JXPGermantownJailersKey Readme.txt” and
+       “JXPGermantownJailersKey License.txt” to your PC's Fallout 3 Data
        directory to retain them for future reference.
 
     4. Launch Fallout 3. When the Launcher window appears, select “Data Files”.
@@ -57,8 +57,8 @@ see <http://www.wtfpl.net/about/>.
 
                         5. UNINSTALLATION INSTRUCTIONS
 
-    1. Delete the files “JXPGermantownJailersKey.esp”. The mod is now
-    uninstalled.
+    1. Delete the file “JXPGermantownJailersKey.esp”. The mod is now
+       uninstalled.
 
                                  6. CHANGELOG
 
@@ -68,19 +68,22 @@ see <http://www.wtfpl.net/about/>.
 
     1.0.0
       Updated file naming to new conventions.
-      Remade thumbnails.
+
+    1.0.1
+      Fixed syntax errors in documentation.
 
 
                                   7. CREDITS
 
     xEdit used to clean mod file.
-    <https://tes5edit.github.io/>
+    [https://tes5edit.github.io/]
 
     GECK used to create mod file.
-    <https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit>
+    [https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit]
 
     Monofonto font by Raymond Larabie. Free font.
-    <http://typodermicfonts.com/>
+    [http://typodermicfonts.com/]
 
-    Overseer Oblique font by Neale Davidson. Used under Pixel Saga's Font License.
-    <http://www.pixelsagas.com/>
+    Overseer Oblique font by Neale Davidson. Used under Pixel Saga's Font
+    License.
+    [http://www.pixelsagas.com/]

@@ -1,9 +1,9 @@
                      JESSIE's RAVEN ROCK HOLDING CELLS MOD
-                             0.1.0, January 2025
+                             1.0.0, January 2025
 
                                    1. LEGAL
 
-Copyright © 2025 Jessie Kirk <http://jessiekirk.xyz/>
+Copyright © 2025 Jessie Kirk [http://jessiekirk.xyz/]
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
@@ -13,7 +13,7 @@ ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
 FOR A PARTICULAR PURPOSE. See the WTFPL for more details.
 
 You should have received a copy of the WTFPL along with this software. If not,
-see <http://www.wtfpl.net/about/>.
+see [http://www.wtfpl.net/about/].
 
                          2. INSTALLATION INSTRUCTIONS
 
@@ -67,17 +67,20 @@ see <http://www.wtfpl.net/about/>.
       Initial commit.
       Changed Reilly's Rangers Compound music from dungeon to base.
 
+    1.0.0
+      Fixed documentation syntax.
+
                                   7. CREDITS
 
     xEdit used to clean mod file.
-    <https://tes5edit.github.io/>
+    [https://tes5edit.github.io/]
 
     GECK used to create mod file.
-    <https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit>
+    [https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit]
 
     Monofonto font by Raymond Larabie. Free font.
-    <http://typodermicfonts.com/>
+    [http://typodermicfonts.com/]
 
     Overseer Oblique font by Neale Davidson. Used under Pixel Saga's Font
     License.
-    <http://www.pixelsagas.com/>
+    [http://www.pixelsagas.com/]
