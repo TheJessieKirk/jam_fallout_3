@@ -1,5 +1,5 @@
                           JESSIE'S MUTFRUIT TREES MOD
-                              0.0.1, January 2025
+                              0.0.2, January 2025
 
                                    1. LEGAL
 
@@ -50,7 +50,9 @@ this software. If not, see [https://www.gnu.org/licenses/].
 
                                 3. GAME CHANGES
 
-    This mod adds mutfruit trees to various Wasteland settlements.
+    This mod adds mutfruit trees to various Wasteland settlements. They are
+    usually owned by the people of those settlements, so think twice before you
+    go scrumping if you're a good character.
 
     Trees can be found in Big Town, Canterbury Commons, Grayditch, Gurdershade,
     Megaton and The Republic of Dave.
@@ -75,11 +77,16 @@ this software. If not, see [https://www.gnu.org/licenses/].
 
                                  6. CHANGELOG
 
-    0.1.0
+    0.0.1
       Initial commit.
       Added trees to Wasteland, each with a universal script and three different
       ground textures, as well as a dead variant for Arefu.
       Added a levelled list to control mutfruit delivery to the player.
+
+    0.0.2
+      Gave trees correct Havok materials and changed the ground from a dynamic
+      collision system to fixed.
+      Corrected documentation and added more information.
 
                                   7. CREDITS
 
@@ -105,6 +112,9 @@ this software. If not, see [https://www.gnu.org/licenses/].
 
     SketchUp used to create tree base.
     [https://www.sketchup.com/en/plans-and-pricing/sketchup-free]
+
+    Fallout 3 Archive Utility used to create the BSA archive.
+    [https://www.nexusmods.com/fallout3/mods/34/]
 
     Monofonto font by Raymond Larabie. Free font.
     [http://typodermicfonts.com/]
