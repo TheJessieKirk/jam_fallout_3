@@ -1,5 +1,5 @@
-                     JESSIE's RAVEN ROCK HOLDING CELLS MOD
-                             1.0.0, January 2025
+                     JESSIE's SUPER MUTANT MORE MEAT MOD
+                             0.1.0, January 2025
 
                                    1. LEGAL
 
@@ -17,12 +17,12 @@ see [http://www.wtfpl.net/about/].
 
                          2. INSTALLATION INSTRUCTIONS
 
-    1. Review the “JXPReillysRangersCompoundMusic License.txt” file to ensure
-       you understand your rights.
+    1. Review the “JXPSuperMutantMoreMeat License.txt” file to ensure you
+       understand your rights.
 
-    2. Extract the file “JXPReillysRangersCompoundMusic.esp” from the archive
-       file “JXPReillysRangersCompoundMusic.zip” to your PC's Fallout 3 Data
-       directory. The usual locations of this directory are:
+    2. Extract the file “JXPSuperMutantMoreMeat.esp” from the archive file
+       “JXPSuperMutantMoreMeat.zip” to your PC's Fallout 3 Data directory. The
+       usual locations of this directory are:
 
            Steam Version, 64-bit Windows:
              C:\Program Files (x86)\Steam\steamapps\common\Fallout 3 goty\Data
@@ -36,39 +36,38 @@ see [http://www.wtfpl.net/about/].
            Retail Version, 32-bit Windows:
              C:\Program Files\Bethesda Softworks\Fallout 3\Data
 
-    3. Optionally, extract the files
-       “JXPReillysRangersCompoundMusic Readme.txt” and
-       “JXPReillysRangersCompoundMusic License.txt” to your PC's Fallout 3
-       Data directory to retain them for future reference.
+    3. Optionally, extract the files “JXPSuperMutantMoreMeat Readme.txt” and
+       “JXPSuperMutantMoreMeat License.txt” to your PC's Fallout 3 Data
+       directory to retain them for future reference.
 
     4. Launch Fallout 3. When the Launcher window appears, select Data Files.
        The Fallout 3 Data Files window will appear containing a list of files.
-       Click/tap the checkbox next to “JXPReillysRangersCompoundMusic.esp” to
-       enable it, then click/tap the OK button. The mod is now installed.
+       Click/tap the checkbox next to “JXPSuperMutantMoreMeat.esp” to enable
+       it, then click/tap the OK button. The mod is now installed.
 
                                 3. GAME CHANGES
 
-    This mod changes the Rangers Compound music from the dungeon playlist (that
-    plays in metros, caves and such) to the base playlist (that plays in The
-    Citadel, The Mall, etc.)
+    This mod adds Human Flesh, Brahim Steak, Mirelurk Meat and Yao Guai Meat to
+    the possible random items Super Mutants carry, although it's more likely
+    they will carry more common meat (with Human Flesh somewhere in the middle,
+    odds-wise).
 
                                  4. RATIONALE
 
-    It seems a bit strange to play spooky dungeon music in a friendly base.
+    Super Mutants aren't picky; it's established they eat humans, hunt Brahmin
+    and shoot/smash pretty much any animal.
 
                         5. UNINSTALLATION INSTRUCTIONS
 
-    1. Delete the file “JXPReillysRangersCompoundMusic.esp”. The mod is now
-       uninstalled.
+    1. Delete the file “JXPSuperMutantMoreMeat.esp”. The mod is now
+    uninstalled.
 
                                  6. CHANGELOG
 
     0.1.0
       Initial commit.
-      Changed Reilly's Rangers Compound music from dungeon to base.
-
-    1.0.0
-      Fixed documentation syntax.
+      Added more meat items via script injection to the levelled meat list
+      used exclusively by Super Mutants.
 
                                   7. CREDITS
 
