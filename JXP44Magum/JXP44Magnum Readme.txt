@@ -1,5 +1,5 @@
                             JESSIE's .44 MAGNUM MOD
-                              1.1.0, January 2025
+                              1.2.0, February 2025
 
                                    1. LEGAL
 
@@ -20,7 +20,7 @@ see [http://www.wtfpl.net/about/].
     1. Review the “JXP44Magnum License.txt” file to ensure you understand your
        rights.
 
-    2. Extract the files “JXP44Magnum.bsa” and “JXP44Magnum.esp” from the
+    2. Extract the files “JXP44Magnum.bsa” and “JXP44Magnum.esm” from the
        archive file “JXP44Magnum.zip” to your PC's Fallout 3 Data directory.
        The usual locations of this directory are:
 
@@ -36,14 +36,19 @@ see [http://www.wtfpl.net/about/].
            Retail Version, 32-bit Windows:
              C:\Program Files\Bethesda Softworks\Fallout 3\Data
 
+    3. If you use Mothership Zeta (Zeta), extract the file
+       “JXP44MagnumZetaCP.esp” to your PC's Fallout 3 Data directory so that
+       the mods work together correctly.
+
     3. Optionally, extract the files “JXP44Magnum Readme.txt” and
        “JXP44Magnum License.txt” to your PC's Fallout 3 Data directory to
        retain them for future reference.
 
     4. Launch Fallout 3. When the Launcher window appears, select Data Files.
        The Fallout 3 Data Files window will appear containing a list of files.
-       Click/tap the checkbox next to “JXP44Magnum.esp” to enable it, then
-       click/tap the OK button. The mod is now installed.
+       Click/tap the checkbox next to “JXP44Magnum.esm”, as well as
+       “JXP44MagnumZetaCP.esp” if you used it, to enable them, then click/tap
+       the OK button. The mod is now installed.
 
                                 3. GAME CHANGES
 
@@ -51,14 +56,23 @@ see [http://www.wtfpl.net/about/].
     the Mysterious Stranger had one, and Paulson a modified one in Mothership
     Zeta.
 
-    Containers and NPCs that spawn with a random Scoped .44 Magnum have an
-    equal chance of having a regular .44 Magnum instead.
+    Containers that spawn with a random Scoped .44 Magnum have an equal chance
+    of having a regular .44 Magnum instead.
 
     The .44 Magnum doesn't appear anywhere in the world; it will only appear as
     a random item.
 
-    It can be repaired, and be used to repair, Blackhawk and Scoped .44
-    Magnums.
+    You can give one to Daniel Agincourt when he requests a pistol in the Taft
+    Tunnel.
+
+    It can be repaired with Scoped .44 Magnums, and used to repair Blackhawk.
+
+    With the Mothership Zeta compatibility Patch (“JXP44MagnumZetaCP.esp”), it
+    can also be used to repair Paulson's Revolver.
+
+    NOTE: If you upgrade from any previous version, any .44 Magnums you have in
+    your inventories will disapear. You can add replacements to your inventory
+    using the console.
 
                                  4. RATIONALE
 
@@ -73,7 +87,7 @@ see [http://www.wtfpl.net/about/].
 
                         5. UNINSTALLATION INSTRUCTIONS
 
-    1. Delete the files “JWeapon44Magnum.bsa” and “JWeapon44Magnum.esp”. The
+    1. Delete the files “JWeapon44Magnum.bsa” and “JWeapon44Magnum.esm”. The
        mod is now uninstalled.
 
                                  6. CHANGELOG
@@ -96,6 +110,10 @@ see [http://www.wtfpl.net/about/].
     1.1.1
       Corrected syntax errors in documentation and updated the general document
       style to be less verbose.
+
+    1.2.0
+      Removed the .44 Magnum from NPC lists as it was causing script/quest
+      errors.
 
                                   7. CREDITS
 
