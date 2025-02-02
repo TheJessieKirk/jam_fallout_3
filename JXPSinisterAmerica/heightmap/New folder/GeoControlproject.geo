@@ -1,0 +1,19 @@
+GeoControlproject
+
+4194304
+1024
+[Layerdaten]
+         Layer_1
+4194304
+1024
+       Terrain_1
+512
+512
+1
+0
+3760
+0
+3760
+50
+[endoflayer]
+[EOF]
