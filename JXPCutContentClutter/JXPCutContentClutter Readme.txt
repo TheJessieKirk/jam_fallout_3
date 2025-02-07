@@ -1,19 +1,14 @@
                        JESSIE'S CLUTTER CUT CONTENT MOD
-                              0.1.0, January 2025
+                             0.3.0, February 2025
 
                                    1. LEGAL
 
 Copyright © 2025 Jessie Kirk [http://jessiekirk.xyz/]
 
-Parts of this software are distributed under different licenses: texture files
-are licensed under the Creative Commons Attribution Share-Alike International
-License 4.0, as published by Creative Commons. See the attached License file or
-[https://creativecommons.org/licenses/by-sa/4.0/deed.en] for details.
-
-Otherwise, this software is free software: you can redistribute it and/or
-modify it under the terms of the GNU General Public License as published by the
-Free Software Foundation, either version 3 of the License, or (at your option)
-any later version.
+This software is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version.
 
 This software is distributed in the hope that it will be useful, but WITHOUT
 ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
@@ -54,10 +49,12 @@ this software. If not, see [https://www.gnu.org/licenses/].
 
                                 3. GAME CHANGES
 
-    This mod adds cut PreWar books and keys back into Fallout 3.
+    This mod adds a cut Brotherhood of Steel Outcasts banner, PreWar books and
+    keys back into Fallout 3.
 
-    This mod is 100% compatible with the Updated Unofficial Patch if you use
-    it.
+    Creates a new mesh and texture for the Outcast banner (which is in the code
+    but uses a stand-in banner), and places it above the entrance to Fort
+    Independence. Also adds a light that illuminates the banner at night.
 
     Adds the six cut PreWar books, which can be found fairly uncommonly in
     some loot containers and in the hands of junk merchants. All can be given
@@ -100,13 +97,32 @@ this software. If not, see [https://www.gnu.org/licenses/].
       Hall.
       Added the Stateman Safe Key to a new container, placed at the front desk.
 
+    0.2.0
+      Fixed activation issue with the new back door to the Roosevelt Academy.
+
+    0.3.0
+      Added cut Outcast Banner and script-controlled emergency light to
+      illuminate it.
+
                                   7. CREDITS
+
+    Fabric texture from FreePik. Used under FreePik license.
+[https://www.freepik.com/free-photo/old-brown-fabric-material-with-copy-space_6448182.htm#fromView=search&page=1&position=17&uuid=e54d505b-f2e8-4888-ab2b-1c2835f9e8be&query=dirty+fabric]
 
     xEdit used to clean mod file.
     [https://tes5edit.github.io/]
 
     GECK used to create mod file.
     [https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit]
+
+    GIMP used to draw textures.
+    [https://tes5edit.github.io/]
+
+    NifSkope used to finalise meshes.
+    [https://github.com/niftools/nifskope/]
+
+    Fallout 3 Archive Utility used to create the BSA archives.
+    [https://www.nexusmods.com/fallout3/mods/34/]
 
     Monofonto font by Raymond Larabie. Free font.
     [http://typodermicfonts.com/]

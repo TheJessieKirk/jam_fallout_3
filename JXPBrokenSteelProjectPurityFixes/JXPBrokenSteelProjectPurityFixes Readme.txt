@@ -1,6 +1,6 @@
                               JESSIE'S BROKEN STEEL
                             PROJECT PURITY FIXES MOD
-                              1.0.1, January 2025
+                              2.0.0, February 2025
 
                                    1. LEGAL
 
@@ -50,15 +50,61 @@ see [http://www.wtfpl.net/about/].
 
                                 3. GAME CHANGES
 
-    This mod "cleans" (post-Take It Back) Project Purity's drinking sources and
-    fixes the multiplied sledgehammers.
+    This mod "cleans" the Jefferson Memorial water sources post-Take It Back!,
+    merges the two seperate versions of the Museum and Gift Shop and Rotunda,
+    allows the player to continue to access the Taft Tunnel and Memorial
+    Sub-Basement, and fixes numerous other things.
+
+    Broken Steel added seperate cells for post-Take It Back!'s Jefferson
+    Memorial Museum and Gift Shop and Rotunda, and blocked off access to the
+    Taft Tunnel and Memorial Sub-Basement. They are now merged, meaning
+    player changes to the area are kept (like leaving things there), and
+    access to the cut-off Sub-Basement and Taft Tunnel is restored.
 
     The water available from the urinals, sinks and toilets inside the
     Jefferson Memorial Museum and Gift Shop is now the same as the Tidal
-    Basin; whether clean or infected with Eden's FEV.
+    Basin, and the water in the toilet bowl is now clean.
 
-    The stack of 17 sledgehammers on the floor has been changed to a single
-    example.
+    Access to the Pump Control is still not possible post-Take It Back!, as
+    it's full of water. Plus, it's now *actually* full of flowing water, which
+    can be viewed from both the old entrance in the Museum and Gift Shop and
+    exit in the Sub-Basement.
+
+    Almost all of the stuff added post-Take It Back! to the Memorial
+    Sub-Basement and Rotunda is still added, and almost all stuff that was
+    removed is still removed.
+
+    A lot of clutter was added to barricade the former-Pump Control area and
+    Memorial Sub-Basement door; this stuff was cleared.
+
+    During the merge, some furniture and the like was found to be *very* close
+    to their post-Take It Back! counterparts; they've simply been removed.
+
+    The turret is now deactivated when first entering the Museum and Gift Shop.
+    It's programmed to not attack the members of the Project Purity team.
+    It can be reprogrammed, reactivated, etc.
+
+    The Enclave will still restore and re-program the turret during The Waters
+    of Life, but now the Brotherhood of Steel will as well after Take It Back!,
+    rather than just removing it.
+
+    Some things from the pre-Take It Back! version of Memorial areas that were
+    removed post-Take It back! are just kept where there was no logical reason
+    to remove them (and vise versa for items only added post-Take It Back!),
+    such as emergency lights, wiring looms, etc.
+
+    Non-interactive containers (desks and such), where the drawers are
+    feasibly accessible, are now accessible.
+
+    Post-Take It Back! radio sets are now tuned to GNR rather than Enclave
+    Radio for obvious reasons.
+
+    The stacks of sledgehammers and lead pipes have been changed to singles,
+    and all weapons have modest health rather than 100%.
+
+    TODO What junk stays and goes
+    TODO Turret
+    TODO Container inventory management
 
                                  4. RATIONALE
 

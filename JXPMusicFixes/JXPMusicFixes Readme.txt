@@ -1,5 +1,5 @@
                            JESSIE's MUSIC FIXES MOD
-                             2.0.0, January 2025
+                             2.1.0, February 2025
 
                                    1. LEGAL
 
@@ -47,10 +47,13 @@ see [http://www.wtfpl.net/about/].
 
                                 3. GAME CHANGES
 
-    This mod changes the Rangers Compound music from the dungeon playlist (that
-    plays in metros, caves and such) to the base playlist (that plays in The
-    Citadel, The Mall, etc.), and adds the dungeon playlist to the Talon
-    Company Camp (which was previously silent).
+    This mod:
+
+      • Changes the Rangers Compound music from the dungeon playlist (that
+        plays in metros, caves and such) to the base playlist (that plays in The
+        Citadel, The Mall, etc.);
+      • Adds the dungeon playlist to the Access Hall and Talon Company Camp
+        (which were previously silent).
 
     NOTE: This mod used to be called the Jessie's Reilly's Rangers Compound
     Music Mod.
@@ -58,8 +61,8 @@ see [http://www.wtfpl.net/about/].
                                  4. RATIONALE
 
     It seems a bit strange to play spooky dungeon music in a friendly base like
-    the Reilly's Ranger Compound, and adding the aforementioned music to the
-    Talon Company Camp greatly adds to the intimidating feel of the place.
+    the Reilly's Ranger Compound, and adding the aforementioned music to
+    certain interiors greatly adds to the intimidating feel of these places.
 
                         5. UNINSTALLATION INSTRUCTIONS
 
@@ -77,6 +80,9 @@ see [http://www.wtfpl.net/about/].
     2.0.0
       REALLY fixed documentation syntax.
       Changed mod name to Music Fixes and added another music fix.
+
+    2.1.0
+      Added Access Hall music fix.
 
                                   7. CREDITS
 
