@@ -1,5 +1,5 @@
                  JESSIE'S FORT CONSTANTINE CUT CONTENT AND FIXES
-                              0.2.0, February 2025
+                              0.2.1, February 2025
 
                                    1. LEGAL
 
@@ -95,9 +95,51 @@ this software. If not, see [https://www.gnu.org/licenses/].
 
     0.1.0
       Initial commit.
-      TODO
+      Removed Tara Field's body and replaced with a skeleton and small Metal
+      Box containing her ammunition and key.
+      Repositioned Tara Field's 10mm pistol and stimpack.
+
+    0.2.0
+      Added new Ghoulish area to Fort Constantine.
+      Set doors locked with special keys to automatically close and buzz open.
+      Changed Warhead Storage Key to Tara's Special Key.
+      Changed Fort Constantine Bunker Door to CO Quarters Door.
+
+    0.2.1
+      Made 100% compatible with the Updated Unofficial Fallout 3 Patch.
+      Doors now make the correct opening/closing sounds.
+      Fixed editor names.
+      Changed the triggers to be one trigger with one script.
+      Fixed the CO Quarters door not relocking.
+      Fixed the Waste Disposal gate not relocking and not buzzing open.
+      Reorganised doors.
+      Made the dead Ghoul and robots persistant references so they're corpses
+      stay looted.
+      Adjusted Waste Disposal lighting to reflect other areas of the base.
+      Made Crowley's Special Key dirty rather than clean.
+      Made Tara's Special Key worth 20 caps like the other special keys.
+      Adjusted Tara's body so she's not blocking the door as much.
+      Adjusted Tara's pistol to better reflect where her body is and so it's
+      not floating slightly.
+      Fixed Tara's script so it's not dependent on a global variable.
+      Added a dust effect around Tara's body.
+      Fixed Tara's body being an obstacle and adjusted area navmesh to go
+      around her.
+      Added some acoustic spaces to Waste Disposal.
+      Added emittance to lights and effects in Waste Disposal.
+      Added collision markers to make it a little harder for followers to
+      murder the Ghouls from above in Waste Disposal.
+      Removed quest-controlled background scripts and handed control to local
+      controllers, as less quests running in the background is more efficient.
+      Improved Waste Disposal door script to use a disable/enable switcher instead of
+      lots of persistant references.
+      Changed faulty door lock terminal message to one more serious.
+      Removed door initial state checker. It was causing too many problems.
 
                                   7. CREDITS
+
+    Thanks to TheTsundereGirl for assisting with mummification research, mesh
+    posing and play testing.
 
     Loose Lips Might Sink Ships poster by Office for Emergency Management,
     Office of War Information, Domestic Operations Branch, Bureau of Special

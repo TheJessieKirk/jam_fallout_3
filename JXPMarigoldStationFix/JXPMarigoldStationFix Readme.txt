@@ -1,9 +1,9 @@
-                       JESSIE's MARIGOLD STATION FIX MOD
-                              0.1.0, January 2025
+                         JESSIE's MARIGOLD STATION FIX
+                              0.1.1, February 2025
 
                                    1. LEGAL
 
-Copyright © 2025 Jessie Kirk [http://jessiekirk.xyz/]
+Copyright © 2025 Jessie Kirk [https://jessiekirk.xyz/]
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
@@ -80,6 +80,10 @@ see [http://www.wtfpl.net/about/].
       a quest to call the script.
       Added references to all subterranean fire ants so the script can kill
       them.
+
+    0.1.1
+      Commented scripts.
+      Fixed documentation syntax and versioning fault.
 
 
                                   7. CREDITS

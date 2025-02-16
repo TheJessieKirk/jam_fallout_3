@@ -1,19 +1,21 @@
                             JESSIE's TROG ITEMS MOD
-                              2.0.0, January 2025
+                              2.1.1, February 2025
 
                                    1. LEGAL
 
-Copyright © 2019, 2022, 2025 Jessie Kirk [http://johnnykirk.xyz/]
+Copyright © 2019, 2022, 2025 Jessie Kirk [https://johnnykirk.xyz/]
 
 This software is free software: you can redistribute it and/or modify it under
-the terms of the WTFPL, Version 2, as published by Sam Hocevar.
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version.
 
 This software is distributed in the hope that it will be useful, but WITHOUT
 ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.
+FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the WTFPL along with this software. If not,
-see [http://www.wtfpl.net/about/].
+You should have received a copy of the GNU General Public License along with
+this software. If not, see [https://www.gnu.org/licenses/].
 
                          2. INSTALLATION INSTRUCTIONS
 
@@ -41,22 +43,21 @@ see [http://www.wtfpl.net/about/].
        “JXPThePittTrogItemsTheTTickets - Textures.bsa” to your PC's Fallout 3
        Data directory (see GAMES CHANGES for a description).
 
-    3. If you use Jessie's Missing Junk Mod (JXPMissingJunk), extract the
-       files “JXPThePittTrogItemsMissingJunkCP.esp”,
-       “JXPThePittTrogItemsMissingJunkCP - Meshes.bsa” and
-       “JXPThePittTrogItemsMissingJunkCP - Textures.bsa” to your PC's Fallout 3
-       Data directory so that the mods work together correctly.
+    4. If you use Jessie's Classic Clutter Mod
+       (JXPThePittTrogItemsClassicClutterCP), extract the file
+       “JXPThePittTrogItemsClassicClutterCP.esp” to your PC's Fallout 3 Data
+       directory so that the mods work together correctly.
 
-    3. Optionally, extract the files “JXPThePittTrogItems Readme.txt” and
+    5. Optionally, extract the files “JXPThePittTrogItems Readme.txt” and
        “JXPThePittTrogItems License.txt” to your PC's Fallout 3 Data directory
        to retain them for future reference.
 
-    4. Launch Fallout 3. When the Launcher window appears, select “Data Files”.
+    6. Launch Fallout 3. When the Launcher window appears, select “Data Files”.
        The Fallout 3 Data Files window will appear containing a list of files.
        Click/tap the checkbox next to “JXPThePittTrogItems.esm” to enable it,
-       as well as “JXPThePittTrogItemsMissingJunkCP.esp” and/or
-       “JXPThePittTrogItemsTheTTickets.esp” if you chose to use them, then
-       click/tap the “OK” button. The mod is now installed.
+       as well as “JXPThePittTrogItemsClassicClutterCP” and/or
+       “JXPThePittTrogItemsTheTTickets.esp” if you have them, then click/tap
+       the “OK” button. The mod is now installed.
 
                                 3. GAME CHANGES
 
@@ -72,19 +73,17 @@ see [http://www.wtfpl.net/about/].
     own. It makes sense that the Pitt's Downtown may still retain access to it,
     but it's not a “metro” system.
 
-    In game terms, Trogs sometimes drop Metro Tickets simply because they use
+    In game terms, Trogs sometimes drop Metro Tickets simply because they used
     the same levelled list as Ghouls.
 
                         5. UNINSTALLATION INSTRUCTIONS
 
-    1. Delete the files “JXPThePittTrogItems.esm”,
+    1. Delete the file “JXPThePittTrogItems.esm”, and
        “JXPThePittTrogItemsTheTTickets.esp”,
        “JXPThePittTrogItemsTheTTickets - Meshes.bsa”,
        “JXPThePittTrogItemsTheTTickets - Textures.bsa”,
-       “JXPThePittTrogItemsMissingJunkCP.esp”,
-       “JXPThePittTrogItemsMissingJunkCP - Meshes.bsa” and
-       “JJXPThePittTrogItemsMissingJunkCP - Textures.bsa”. The mod is now
-       uninstalled.
+       “JXPThePittTrogItemsClassicClutterCP.esp” if you have them. The mod is
+       now uninstalled.
 
                                  6. CHANGELOG
 
@@ -107,6 +106,13 @@ see [http://www.wtfpl.net/about/].
 
     2.0.1
       Fixed syntax errors in documentation.
+
+    2.1.0
+      Remade compatibility patches to reflect Jessie's Classic Clutter mod
+      changes.
+
+    2.1.1
+      Made 100% compatible with the Updated Unofficial Fallout 3 Patch.
 
                                   7. CREDITS
 

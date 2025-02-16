@@ -1,9 +1,9 @@
-                         JESSIE'S ESSENTIAL SYDNEY MOD
-                              0.1.0, February 2025
+                         JESSIE's ESSENTIAL SYDNEY MOD
+                              0.1.1, February 2025
 
                                    1. LEGAL
 
-Copyright © 2025 Jessie Kirk [http://jessiekirk.xyz/]
+Copyright © 2025 Jessie Kirk [https://jessiekirk.xyz/]
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
@@ -47,7 +47,23 @@ see [http://www.wtfpl.net/about/].
 
                                 3. GAME CHANGES
 
-    Makes Sydney essential (unkillable).
+    Makes Sydney essential (unkillable), with a caveat:
+
+    There's a very rare situation we must account for:
+
+    * The player has Sydney as a follower during Stealing Independence,
+    * The player then takes her into the Jefferson Memorial Rotunda *before*
+      the scene in which Dad dies during The Waters of Life,
+    * The player then tells her to wait in the Rotunda beyond the airlock and
+      leaves her there,
+    * The player then *returns* to the Rotunda to experience the aforementioned
+      scene: Sydney will be standing there with Dad and the others:
+
+    The game accounts for this; any followers left in the area beyond the
+    airlock are killed by the radiation burst along with everyone else.
+
+    Sydney loses her essential state if this rare situation occurs, and is
+    killed along with everyone else.
 
                                  4. RATIONALE
 
@@ -61,7 +77,12 @@ see [http://www.wtfpl.net/about/].
 
     0.1.0
       Initial commit.
-      Added "essential" flag to Sydney NPC.
+      Added "essential" flag to Sydney NPC via script injection.
+
+    0.1.1
+      Accounted for the Project Purity radiation burst situation.
+      Corrected documentation syntax.
+      Commented scripts.
 
                                   7. CREDITS
 

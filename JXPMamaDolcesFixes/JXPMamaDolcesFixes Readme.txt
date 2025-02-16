@@ -1,5 +1,5 @@
                           JESSIE's MAMA DOLCE'S FIXES
-                              0.1.0, February 2025
+                              0.1.1, February 2025
 
                                    1. LEGAL
 
@@ -79,6 +79,9 @@ see [http://www.wtfpl.net/about/].
       Made a new electrical switch object with a script to control both opening
       and closing the door without interfering with the "ambush" script or an
       NPCs ability to activate it.
+    0.1.1
+      Removed a uneccessary requirement for Point Lookout. Sorry!
+      Made 100% compatible with the Updated Unofficial Fallout 3 Patch.
 
 
                                   7. CREDITS

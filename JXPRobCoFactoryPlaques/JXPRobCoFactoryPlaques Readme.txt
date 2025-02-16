@@ -1,9 +1,9 @@
-                       JESSIE'S ROBCO FACTORY PLAQUES MOD
-                              0.0.1, January 2025
+                       JESSIE's ROBCO FACTORY PLAQUES MOD
+                              1.0.1, February 2025
 
                                    1. LEGAL
 
-Copyright © 2025 Jessie Kirk [http://jessiekirk.xyz/]
+Copyright © 2025 Jessie Kirk [https://jessiekirk.xyz/]
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
@@ -67,6 +67,16 @@ this software. If not, see [https://www.gnu.org/licenses/].
       Initial commit.
       Replaced all plaques on the RobCo Factory Floor with activators, each
       with a script and message.
+
+    1.0.0
+      The plaques now share a single object type and script, and references are
+      used to control plaque messages instead.
+      The replacement plaques are now in the *exact* same position as the
+      originals.
+      Fixed documentation syntax.
+
+    1.0.1
+      Fixed capitalisation of RobCo name.
 
                                   7. CREDITS
 

@@ -1,9 +1,9 @@
-                  JESSIE'S VAULT JUMPSUIT CUT CONTENT AND FIXES
-                              0.1.0, February 2025
+                  JESSIE's VAULT JUMPSUIT CUT CONTENT AND FIXES
+                              0.1.2, February 2025
 
                                    1. LEGAL
 
-Copyright © 2025 Jessie Kirk [http://jessiekirk.xyz/]
+Copyright © 2025 Jessie Kirk [https://jessiekirk.xyz/]
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
@@ -74,13 +74,23 @@ see [http://www.wtfpl.net/about/].
 
     0.1.0
       Initial commit.
-      Replaced static rusty dressers in Vault 92 and 106 with new containers.
+      Replaced static, rusty dressers in Vault 92 and 106 with new containers.
       Added two dressers to Vault 87 in places that don't interfere with the
       existing navmesh.
       Created levelled lists for jumpsuit generation for Vaults 87, 92 and 106
       that match the levelled lists used for Vault 101 dressers.
       Altered Vault 77, 87, 92 and 106 Jumpsuits to be worth 8 caps instead of
       6.
+      Adjusted a dresser that was clipping into a wall.
+
+    0.1.1
+      Replaced an existing, static dresser that was clean with a rusty one in
+      Vault 106.
+      Fixed a few documentation mistakes.
+
+    0.1.2
+      Made 100% compatible with the Updated Unofficial Fallout 3 Patch.
+      Removed a fix for a misplaced dresser as an obsolete fix.
 
                                   7. CREDITS
 

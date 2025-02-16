@@ -1,9 +1,9 @@
-                           JESSIE's MUSIC FIXES MOD
-                             2.1.0, February 2025
+                             JESSIE's MUSIC FIXES
+                             2.1.1, February 2025
 
                                    1. LEGAL
 
-Copyright © 2025 Jessie Kirk [http://jessiekirk.xyz/]
+Copyright © 2025 Jessie Kirk [https://jessiekirk.xyz/]
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
@@ -83,6 +83,9 @@ see [http://www.wtfpl.net/about/].
 
     2.1.0
       Added Access Hall music fix.
+
+    2.1.1
+      REALLY SERIOUSLY fixed documentation syntax.
 
                                   7. CREDITS
 

@@ -1,9 +1,9 @@
                        JESSIE's RAVEN ROCK HANDY BOX MOD
-                             1.0.1, January 2025
+                              1.0.2, February 2025
 
                                    1. LEGAL
 
-Copyright © 2022, 2025 Jessie Kirk [http://jessiekirk.xyz/]
+Copyright © 2022, 2025 Jessie Kirk [https://jessiekirk.xyz/]
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
@@ -74,8 +74,12 @@ see [http://www.wtfpl.net/about/].
     1.0.0
       Added swearing.
 
-    1.0.0
+    1.0.1
       Fixed documentation syntax.
+
+    1.0.2
+      Made 100% compatible with the Updated Unofficial Fallout 3 Patch.
+      REALLY fixed documentation syntax.
 
                                   7. CREDITS
 

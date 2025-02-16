@@ -1,5 +1,5 @@
                        JESSIE'S CLUTTER CUT CONTENT MOD
-                             0.3.0, February 2025
+                             0.3.1, February 2025
 
                                    1. LEGAL
 
@@ -103,6 +103,11 @@ this software. If not, see [https://www.gnu.org/licenses/].
     0.3.0
       Added cut Outcast Banner and script-controlled emergency light to
       illuminate it.
+
+    0.3.1
+      Outcast Banner now replaces the original banner rather than adding a new
+      object.
+      Made 100% compatible with the Updated Unofficial Fallout 3 Patch.
 
                                   7. CREDITS
 

@@ -1,5 +1,5 @@
                             JESSIE's .44 MAGNUM MOD
-                              1.2.1, February 2025
+                              1.2.3, February 2025
 
                                    1. LEGAL
 
@@ -127,10 +127,21 @@ see [http://www.wtfpl.net/about/].
       Commented script, general code tidying, documentation clarification, and
       moved CP to seperate download for ease of Vortex use.
 
+    1.2.2
+      Fixed the injection script so that it actually injects the .44 Magnums again. Sorry about that!
+      Made 100% compatible with the Updated Unofficial Fallout 3 Patch.
+      REALLY fixed documentation syntax.
+
+    1.2.3
+      Corrected the script name. It's spelled “Magnum”, not “Magum”, Jess.
+
                                   7. CREDITS
 
     xEdit used to clean mod file.
     [https://tes5edit.github.io/]
+
+    WryeBash used to convert to master file.
+    [https://www.nexusmods.com/site/mods/591]
 
     GECK used to create mod file.
     [https://geck.bethsoft.com/index.php?title=Garden_of_Eden_Creation_Kit]

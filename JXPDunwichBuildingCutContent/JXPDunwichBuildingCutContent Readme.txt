@@ -1,9 +1,9 @@
-                   JESSIE'S DUNWICH BUILDING CUT CONTENT MOD
-                              0.1.0, January 2025
+                    JESSIE'S DUNWICH BUILDING CUT CONTENT MOD
+                              0.1.1, February 2025
 
                                    1. LEGAL
 
-Copyright © 2025 Jessie Kirk [http://jessiekirk.xyz/]
+Copyright © 2025 Jessie Kirk [https://jessiekirk.xyz/]
 
 Parts of this software are distributed under different licenses: texture files
 are licensed under the Creative Commons Attribution Share-Alike International
@@ -62,9 +62,6 @@ this software. If not, see [https://www.gnu.org/licenses/].
     While the Updated Unofficial Patch does this, the note used does not
     resemble the actual sketch and continues to use a temporary stand-in note.
 
-    This mod is 100% compatible with the Updated Unofficial Patch if you use
-    it.
-
                                  4. RATIONALE
 
     If you use the Updated Unofficial Patch, the note should resemble the
@@ -82,6 +79,13 @@ this software. If not, see [https://www.gnu.org/licenses/].
     0.1.0
       Initial commit.
       Added new note mesh and texture and disabled the stand-in note.
+
+    0.1.1
+      REALLY made this mod 100% compatible with the Updated Unofficial Fallout
+      3 Patch. Sorry!
+      Added a suitable icon to the note just incase you somehow manage to find
+      a duplicate.
+      Fixed documentation syntax.
 
                                   7. CREDITS
 

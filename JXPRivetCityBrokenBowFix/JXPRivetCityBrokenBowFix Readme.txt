@@ -1,9 +1,9 @@
-                       JESSIE'S RIVET CITY BROKEN BOW FIX
-                              1.0.0, January 2025
+                       JESSIE's RIVET CITY BROKEN BOW FIX
+                              1.0.2, February 2025
 
                                    1. LEGAL
 
-Copyright © 2025 Jessie Kirk [http://jessiekirk.xyz/]
+Copyright © 2025 Jessie Kirk [https://jessiekirk.xyz/]
 
 This software is free software: you can redistribute it and/or modify it under
 the terms of the WTFPL, Version 2, as published by Sam Hocevar.
@@ -47,7 +47,7 @@ see [http://www.wtfpl.net/about/].
 
                                 3. GAME CHANGES
 
-    Fixes issues with the bridge leading to Rivet City's Broken Bow.
+    Fixes an issue with the bridge leading to Rivet City's Broken Bow.
 
     Specifically, the player must either jump, or perch awkwardly on the rocky
     shore and move carefully, to get on the bridge leading to the Broken Bow.
@@ -76,6 +76,12 @@ see [http://www.wtfpl.net/about/].
 
     1.0.0
       Fixed documentation syntax.
+
+    1.0.1
+      REALLY fixed documentation syntax.
+
+    1.0.2
+      Made 100% compatible with the Updated Unofficial Fallout 3 Patch.
 
                                   7. CREDITS
 
