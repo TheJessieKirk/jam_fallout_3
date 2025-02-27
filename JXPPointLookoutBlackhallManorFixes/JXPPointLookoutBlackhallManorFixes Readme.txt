@@ -1,6 +1,6 @@
                              JESSIE's POINT LOOKOUT
                               BLACKHALL MANOR FIXES
-                              0.1.0, February 2025
+                              0.1.2, February 2025
 
                                    1. LEGAL
 
@@ -49,13 +49,15 @@ see [http://www.wtfpl.net/about/].
 
                                 3. GAME CHANGES
 
-    Fixes a container, assigns ownership and removes an unreachable bottle in
-    Blackhall Manor.
+    Makes Obadiah Blackhall Very Evil, fixes a container, assigns ownership
+    and removes an unreachable bottle in Blackhall Manor.
+
+    Obadiah is now Very Evil, being into Lovecraftian nonesense and all.
 
     A non-interactive desk that is accessible to the player is now interactive.
 
-    The Manor didn't belong to anyone, so you could rob Obadiah Blackhall blind
-    and he wouldn't care. Now it belongs to him.
+    The Manor didn't belong to anyone, so you could rob Obadiah and he wouldn't
+    care. Now it belongs to him.
 
     An empty Scotch bottle inside a wall has been removed.
 
@@ -65,7 +67,7 @@ see [http://www.wtfpl.net/about/].
     that's fallen over, blocking the drawers/doors etc, buried in rubble, etc.
     is fine, but just sitting there normally is just silly.
 
-    Obediah Blackhall owns the mansion, so he should actually care if you try
+    Obadiah Blackhall owns the mansion, so he should actually care if you try
     to rob him. He reacts if you attack him, so why not react to robbing him?
 
     An inaccessible misc. item is just a waste of computer memory.
@@ -80,9 +82,19 @@ see [http://www.wtfpl.net/about/].
     0.1.0
       Initial commit.
       Replaced an accessible static container with an actual container.
-      Assigned ownership of the Blackhall Manor interior cells to Obediah
+      Assigned ownership of the Blackhall Manor interior cells to Obadiah
       Blackhall.
       Removed an inaccessible bottle.
+
+    0.1.1
+      Made Blackhall Manor a public area (but not the basement).
+      Made the basement off-limits, so Obadiah will be cross if he catches you
+      going in.
+      Made Obadiah very evil.
+
+    0.1.2
+      Updated ESP description.
+      Fixed documentation syntax.
 
 
 

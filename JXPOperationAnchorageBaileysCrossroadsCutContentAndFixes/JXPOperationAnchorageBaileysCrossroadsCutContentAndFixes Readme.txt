@@ -1,6 +1,6 @@
                         JESSIE's OPERATION: ANCHORAGE
                   BAILEY'S CROSSROADS CUT CONTENT AND FIXES
-                             0.2.0, February 2025
+                             0.3.0, February 2025
 
                                    1. LEGAL
 
@@ -103,6 +103,9 @@ this software. If not, see [https://www.gnu.org/licenses/].
     Outcasts that previously wore no helmets are wearing cut Outcast Recon
     Helmets instead.
 
+    The loot inside the sealed armoury can no longer be picked up by NPCs; only
+    the player can loot them.
+
     NOTE: This mod used to be called Jessie's Operation Anchorage Bailey's
     Crossroads Fixes.
 
@@ -134,6 +137,10 @@ this software. If not, see [https://www.gnu.org/licenses/].
     Recon helmets are commonly worn by Power Armored people that aren't wearing
     Power Helmets. Even Ashur wears one.
 
+    During the conflict between the Outcasts, NPCs can sometimes pick up
+    weapons from the armoury, sometimes helping themselves to unique weapons.
+    This seems like an oversight.
+
                         5. UNINSTALLATION INSTRUCTIONS
 
     1. Delete the file “JXPOperationAnchorageBaileysCrossroadsFixes.esp”. The
@@ -156,7 +163,7 @@ this software. If not, see [https://www.gnu.org/licenses/].
       Added radioaction markers to leaky pipes.
       Added a script that removes the player from the Outcasts faction.
 
-    0.1.1
+    0.2.0
       Fixed clipping rubble pile.
       Added more rubble to hide an incomplete building near the metro.
       Added a cut Outcast.
@@ -173,6 +180,10 @@ this software. If not, see [https://www.gnu.org/licenses/].
       Normalised Bailey's Crossroads ambience, imagespace and dialogue with
       other DC world spaces.
       Made radioactive pipes slightly less radioactive.
+
+    0.3.0
+      Added No AI Acquire flags to armoury objects.
+      Fixed documentation syntax.
 
                                   7. CREDITS
 

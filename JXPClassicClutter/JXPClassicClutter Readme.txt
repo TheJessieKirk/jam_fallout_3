@@ -1,5 +1,5 @@
                           JESSIE's CLASSIC CLUTTER MOD
-                              0.2.1, February 2025
+                              0.2.3, February 2025
 
                                    1. LEGAL
 
@@ -39,25 +39,20 @@ this software. If not, see [https://www.gnu.org/licenses/].
            Retail Version, 32-bit Windows:
              C:\Program Files\Bethesda Softworks\Fallout 3\Data
 
-    3. If you use The Pitt (ThePitt), extract the file
-       “JXPClassicClutterThePittCP.esp” to your PC's Fallout 3 Data directory
-       so that the mods work together correctly.
+    3. Also, if you have Broken Steel, extract the file
+       “JXPClassicClutterBrokenSteelCP.esp” to your PC's Fallout 3 Data
+       directory.
 
-    4. If you use Broken Steel (BrokenSteel), extract the file
-       “JXPClassicClutterBrokenSteelCP.esp” to your PC's Fallout 3 Data directory
-       so that the mods work together correctly.
-
-    5. Optionally, extract the files “JXPClassicClutter Readme.txt” and
+    4. Optionally, extract the files “JXPClassicClutter Readme.txt” and
        “JXPClassicClutter License.txt” to your PC's Fallout 3 Data directory
        to retain them for future reference.
 
-    6. Launch Fallout 3. When the Launcher window appears, select Data Files.
+    5. Launch Fallout 3. When the Launcher window appears, select Data Files.
        The Fallout 3 Data Files window will appear containing a list of files.
-       Click/tap the checkbox next to “JXPClassicClutter.esm” to enable it,
+       Click/tap the checkbox next to “JXPClassicClutter.esm”, and/or
+       “JXPClassicClutterThePittCP.esp” and
+       “JXPClassicClutterBrokenSteelCP.esp” if you have them, to enable them,
        then click/tap the OK button. The mod is now installed.
-
-    NOTE: If you upgrade from any previous version prior to 0.1.2, any Yellow
-    Pass Cards you have in your inventories will disapear.
 
                                 3. GAME CHANGES
 
@@ -73,19 +68,22 @@ this software. If not, see [https://www.gnu.org/licenses/].
     Like the Blue and Red Pass Cards, the Yellow Pass Card doesn't appear
     anywhere in the world and is useless; it will only appear as a random item.
 
-    Additionally, if you use The Pitt Compatability Patch, Trogs will sometimes
-    drop Yellow Pass Cards on death.
-
     And if you use the Broken Steel Compatability Patch, the members of the
     Apostles of the Eternal Light will also carry AEL Badges (which are
     otherwise identical.)
 
-    NOTE: This mod used to be called Jessie's Missing Junk Mod.
+    NOTE 1: If you upgrade from any previous version prior to 0.1.2, any Yellow
+    Pass Cards you have in your inventories will disapear. You can add
+    replacements to your inventory using the console:
+
+        Player.AddItem 01000EA6 1
+
+    NOTE 2: This mod used to be called Jessie's Missing Junk Mod.
 
                                  4. RATIONALE
 
-    The Black and Red COA (and AEL) Badges appeared in Fallout (as the COC
-    Badges). Albeit the Church of the Cathedral and Church of Atom/Apostles of
+    The Black and Red COA (and AEL) Badges appeared in Fallout (as the “COC
+    Badge”). Albeit the Church of the Cathedral and Church of Atom/Apostles of
     Eternal Light are different, but they all hold very similar beliefs, and it
     makes a nice callback.
 
@@ -98,9 +96,8 @@ this software. If not, see [https://www.gnu.org/licenses/].
 
     1. Delete the files “JXPClassicClutter - Meshes.bsa”,
        “JXPClassicClutter - Textures.bsa” and “JXPClassicClutter.esm”. Also,
-       delete “JXPClassicClutterThePittCP.esp” and
-       “JXPClassicClutterBrokenSteelCP.esp” if you used them. The mod is now
-       uninstalled.
+       delete “JXPClassicClutterBrokenSteelCP.esp” if you have it. The mod is
+       now uninstalled.
 
                                  6. CHANGELOG
 
@@ -121,6 +118,14 @@ this software. If not, see [https://www.gnu.org/licenses/].
     0.2.1
       Removed bundled compatibility patches as they are supposed to be in
       seperate files.
+
+    0.2.2
+      REALLY fixed documentation syntax.
+      Added AddItem advise.
+
+    0.2.3
+      Removed The Pitt compatability patch. Not needed as Trogs use the base
+      Ghoul list.
 
                                   7. CREDITS
 

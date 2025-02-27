@@ -1,6 +1,6 @@
                              JESSIE's POINT LOOKOUT
                               CALVERT MANSION FIXES
-                              1.0.0, February 2025
+                              1.0.1, February 2025
 
                                    1. LEGAL
 
@@ -27,8 +27,7 @@ this software. If not, see [https://www.gnu.org/licenses/].
        “JXPPointLookoutCalvertMansionFixes - Texture.bsa” and
        “JXPPointLookoutCalvertMansionFixes.esp” from the archive file
        “JXPPointLookoutCalvertMansionFixes.zip” to your PC's Fallout 3 Data
-       directory.
-       The usual locations of this directory are:
+       directory. The usual locations of this directory are:
 
            Steam Version, 64-bit Windows:
              C:\Program Files (x86)\Steam\steamapps\common\Fallout 3 goty\Data
@@ -48,8 +47,8 @@ this software. If not, see [https://www.gnu.org/licenses/].
 
     4. Launch Fallout 3. When the Launcher window appears, select “Data Files”.
        The Fallout 3 Data Files window will appear containing a list of files.
-       Click/tap the checkbox next to
-       “JXPPointLookoutCalvertMansionFixes.esp” to enable it, then click/tap
+       Click/tap the checkbox next to “JXPPointLookoutCalvertMansionFixes.esp”
+       to enable it, then click/tap
        the “OK” button. The mod is now installed.
 
                                 3. GAME CHANGES
@@ -115,6 +114,9 @@ this software. If not, see [https://www.gnu.org/licenses/].
 
     1.0.0
       Made the radioactive marker slightly less radioactive.
+
+    1.0.1
+      Fixed documentation syntax.
 
 
                                   7. CREDITS

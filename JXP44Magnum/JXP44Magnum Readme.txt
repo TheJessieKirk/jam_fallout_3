@@ -1,5 +1,5 @@
                             JESSIE's .44 MAGNUM MOD
-                              1.2.3, February 2025
+                              1.2.4, February 2025
 
                                    1. LEGAL
 
@@ -36,31 +36,28 @@ see [http://www.wtfpl.net/about/].
            Retail Version, 32-bit Windows:
              C:\Program Files\Bethesda Softworks\Fallout 3\Data
 
-    3. If you use Mothership Zeta (Zeta), extract the file
-       “JXP44MagnumZetaCP.esp” to your PC's Fallout 3 Data directory so that
-       the mods work together correctly.
+    3. Additionally, if you have Mothership Zeta (Zeta), extract the file
+       “JXP44MagnumZetaCP.esp” to your PC's Fallout 3 Data directory.
 
-    3. Optionally, extract the files “JXP44Magnum Readme.txt” and
+    4. Optionally, extract the files “JXP44Magnum Readme.txt” and
        “JXP44Magnum License.txt” to your PC's Fallout 3 Data directory to
        retain them for future reference.
 
-    4. Launch Fallout 3. When the Launcher window appears, select Data Files.
+    5. Launch Fallout 3. When the Launcher window appears, select Data Files.
        The Fallout 3 Data Files window will appear containing a list of files.
-       Click/tap the checkbox next to “JXP44Magnum.esm”, as well as
-       “JXP44MagnumZetaCP.esp” if you used it, to enable them, then click/tap
-       the OK button. The mod is now installed.
+       Click/tap the checkbox next to “JXP44Magnum.esm” and/or
+       “JXP44MagnumZetaCP.esp” if you used it, to enable it/them, then
+       click/tap the OK button. The mod is now installed.
 
                                 3. GAME CHANGES
 
     This mod adds the .44 Magnum (without scope) to the game. Previously, only
     the Mysterious Stranger had one, and Paulson a modified one in Mothership
-    Zeta.
-
-    A .44 Magnum also appears in one of the G.O.A.T questions, and its
+    Zeta, and a .44 Magnum also appears in one of the G.O.A.T questions, and its
     associated loading screen.
 
-    Containers that spawn with a random Scoped .44 Magnum have an equal chance
-    of having a regular .44 Magnum instead.
+    Containers and some NPCs that spawn with a random Scoped .44 Magnum have
+    an equal chance of having a regular .44 Magnum instead.
 
     The .44 Magnum doesn't appear anywhere in the world; it will only appear as
     a random item.
@@ -78,13 +75,13 @@ see [http://www.wtfpl.net/about/].
     .44 Magnums (without scope) you have in your inventories will disapear. You
     can add replacements to your inventory using the console:
 
-        Player.AddItem 0000434D 1 100
+        Player.AddItem 0000434D 1
 
                                  4. RATIONALE
 
-    The regular .44 Magnum appears in Fallout 2 (as the .44 Magnum revolver),
-    Fallout Tactics (as the 44 M29 revolver), Fallout New Vegas (as the .44
-    Magnum revolver), and Fallout 4 and Fallout 76 (as the .44 pistol) as an
+    The regular .44 Magnum appears in Fallout 2 (as the “.44 Magnum revolver”),
+    Fallout Tactics (as the “.44 M29 revolver”), Fallout: New Vegas (as the “.44
+    Magnum revolver”), and Fallout 4 and Fallout 76 (as the “.44 pistol”) as an
     ordinary, obtainable weapon, but only appears in Fallout 3 in the hands of
     the Mysterious Stranger, Paulson in Mothership Zeta, and in one of the
     G.O.A.T questions (and associated load screen).
@@ -95,7 +92,7 @@ see [http://www.wtfpl.net/about/].
                         5. UNINSTALLATION INSTRUCTIONS
 
     1. Delete the files “JWeapon44Magnum.bsa” and “JWeapon44Magnum.esm”,
-       and “JWeapon44MagnumZetaCP.esp” if you used it. The mod is now
+       and “JWeapon44MagnumZetaCP.esp” if you have it. The mod is now
        uninstalled.
 
                                  6. CHANGELOG
@@ -134,6 +131,10 @@ see [http://www.wtfpl.net/about/].
 
     1.2.3
       Corrected the script name. It's spelled “Magnum”, not “Magum”, Jess.
+
+    1.2.4
+      Corrected documentation syntax for realsies.
+      Fixed the AddItem command suggestion.
 
                                   7. CREDITS
 

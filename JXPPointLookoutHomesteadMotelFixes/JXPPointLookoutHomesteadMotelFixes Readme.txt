@@ -1,6 +1,6 @@
                              JESSIE's POINT LOOKOUT
                               HOMESTEAD MOTEL FIXES
-                              0.1.0, February 2025
+                              0.1.1, February 2025
 
                                    1. LEGAL
 
@@ -18,13 +18,12 @@ see [http://www.wtfpl.net/about/].
 
                          2. INSTALLATION INSTRUCTIONS
 
-    1. Review the “JJXPPointLookoutHomesteadMotelFixes License.txt” file to
+    1. Review the “JXPPointLookoutHomesteadMotelFixes License.txt” file to
        ensure you understand your rights.
 
-    2. Extract the file “JJXPPointLookoutHomesteadMotelFixes.esp” from the
-       archive file “JJXPPointLookoutHomesteadMotelFixes.zip” to your PC's
-       Fallout 3 Data directory.
-       The usual locations of this directory are:
+    2. Extract the file “JXPPointLookoutHomesteadMotelFixes.esp” from the
+       archive file “JXPPointLookoutHomesteadMotelFixes.zip” to your PC's
+       Fallout 3 Data directory. The usual locations of this directory are:
 
            Steam Version, 64-bit Windows:
              C:\Program Files (x86)\Steam\steamapps\common\Fallout 3 goty\Data
@@ -38,13 +37,13 @@ see [http://www.wtfpl.net/about/].
            Retail Version, 32-bit Windows:
              C:\Program Files\Bethesda Softworks\Fallout 3\Data
 
-    3. Optionally, extract the files “JJXPPointLookoutHomesteadMotelFixes
-       Readme.txt” and “JJXPPointLookoutHomesteadMotelFixes License.txt” to
+    3. Optionally, extract the files “JXPPointLookoutHomesteadMotelFixes
+       Readme.txt” and “JXPPointLookoutHomesteadMotelFixes License.txt” to
        your PC's Fallout 3 Data directory to retain them for future reference.
 
     4. Launch Fallout 3. When the Launcher window appears, select “Data Files”.
        The Fallout 3 Data Files window will appear containing a list of files.
-       Click/tap the checkbox next to “JJXPPointLookoutHomesteadMotelFixes.esp”
+       Click/tap the checkbox next to “JXPPointLookoutHomesteadMotelFixes.esp”
        to enable it, then click/tap the “OK” button. The mod is now installed.
 
                                 3. GAME CHANGES
@@ -61,7 +60,7 @@ see [http://www.wtfpl.net/about/].
 
                         5. UNINSTALLATION INSTRUCTIONS
 
-    1. Delete the file “JJXPPointLookoutHomesteadMotelFixes.esp”. The mod is
+    1. Delete the file “JXPPointLookoutHomesteadMotelFixes.esp”. The mod is
        now uninstalled.
 
                                  6. CHANGELOG
@@ -69,6 +68,9 @@ see [http://www.wtfpl.net/about/].
     0.1.0
       Initial commit.
       Replaced accessible static containers with actual containers.
+
+    0.1.1
+      Fixed documentation syntax.
 
                                   7. CREDITS
 
